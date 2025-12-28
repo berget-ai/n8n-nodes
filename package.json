@@ -75,10 +75,7 @@
     "@bergetai/n8n-nodes-berget-ai-ocr": "^1.0.0",
     "@bergetai/n8n-nodes-berget-ai-rerank": "^1.0.0",
     "@bergetai/n8n-nodes-berget-ai-speech": "^1.0.0",
-    "n8n-workflow": "^1.17.0"
-  },
-  "peerDependencies": {
-    "n8n-workflow": ">=1.0.0"
+    "n8n-workflow": "^1.112.0"
   },
   "engines": {
     "node": ">=18.0.0",
